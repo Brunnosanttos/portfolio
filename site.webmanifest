@@ -1,0 +1,13 @@
+{
+  "name": "Bruno Santos · Full Stack",
+  "short_name": "Bruno Santos",
+  "description": "Portfólio de Bruno Santos, desenvolvedor Full Stack em Recife.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090F",
+  "theme_color": "#07090F",
+  "icons": [
+    { "src": "/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
